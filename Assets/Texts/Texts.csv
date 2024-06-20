@@ -1,0 +1,106 @@
+DIALOG01_LINE01#¡Buenas, viajero!#Benvingut viatger!#Welcome traveler!
+DIALOG01_LINE02#He visto como se rompía tu barca.#He vist com Gnorck s'emportava la teva barca.#I have seen how gnorkc took your boat.
+DIALOG01_LINE03#Creo que Topete puede ayudarte a repararla.#Crec que Topete pot ajudar-te a reparar-la.#I think Topete can help you repairing it.
+DIALOG01_LINE04#Pero un árbol cayó en el puente y no podemos pasar.#Però un arbre va caure al pont i no podem passar.#But a tree fell on the bridge and we can't get through.
+DIALOG01_LINE05#Toma esta mochila.  Con ella podrás recolectar y crear cosas.#Pren aquesta motxilla.  Amb ella podràs collir i crear coses.#Take this backpack.  With it you can collect and create things.
+DIALOG01_LINE06#Sigue el camino hacia el Este, tala el árbol y encontrarás a Topete.#Segueix el camí cap a l'Est, tala l'arbre i trobaràs a Topete.#Follow the path to the East, cut down the tree and you will find Topete.
+DIALOG02_LINE01#¿Ya has hablado con topete?#Ja has parlat amb Topete?#You already talked to Topete?
+DIALOG03_LINE01#Jijijiji#Jijijiji#Hihihihi
+DIALOG03_LINE02#¡Uy! No te había visto.#Ui! No t'havia vist.#Oops! I didn't see you.
+DIALOG03_LINE03#Me han dicho que intentando reparar tu barca.#M'han dit que estàs intentant reparar la teva barca.#Somebody told me that you are trying to repair your boat.
+DIALOG03_LINE04#Mmm… Me gustaría ayudarte, ¿pero qué gano a cambio?#Mmm… M'agradaria ajudar-te, però que guanyo a canvi?#Hmm… I'd like to help you, but what do I get from it?
+DIALOG03_LINE05#Se me ha ocurrido algo… Si consigues superar esta prueba te ayudaré.#Se m'ha acudit alguna cosa… Si aconsegueixes superar aquesta prova, t'ajudaré.#I thought something... If you manage to pass this challenge I will help you.
+DIALOG03_LINE06#¿Quieres probar?#Vols provar?#Want to try?
+DIALOG04_LINE01#!Vuelve cuando quieras!#Torna quan vulguis!#Come back whenever you want.
+DIALOG05_LINE01#Sabía que no podrías. ¿Quieres volver a intentarlo?#Sabia que no podries. Vols tornar-ho a intentar?#I knew you would fail. Do you want to try again?
+DIALOG06_LINE01#Joo… Eres el primero en superar mi prueba.#Joo… Ets el primer a superar la meva prova.#Ups...You are the first to pass my challenge.
+DIALOG06_LINE02#Bueno, un trato es un trato.#Bé, un tracte és un tracte.#Well, fair enough.
+DIALOG06_LINE03#He visto como Gnorkc se iba hacia el oeste de la isla, l podrá ayudarte.#He vist com Gnorck se n'anava cap a l'est de l'illa, ell podrà ajudar-te.#I saw Gnork going to the west of the island, he would help you.
+DIALOG06_LINE04#Pero es territorio de Alfred, si quieres pasar te pedirá algo a cambio.#Però és territori d'Alfred, si vols passar, et demanarà alguna cosa a canvi.#But it is Alfred's territory, if you want to pass through he will ask you for something in return.
+DIALOG06_LINE05#Te puedo enseñar a hacer una pala como esta. Seguramente te sea de ayuda.#Et puc ensenyar a fer una pala com aquesta. Segurament t'ajuda.#I can teach you how to make a shovel like this. It will surely help you.
+DIALOG07_LINE05#¿Ya te has fabricado una pala?#Ja t'has fabricat una pala?#Have you already made your own shovel?
+DIALOG08_LINE01#!Oh, una cara nueva por la isla!#Oh, una cara nova per l'illa!#Oh, a new face on the island!
+DIALOG08_LINE02#Mi nombre es Alfred y soy el dueño de este puente.#Em dic Alfred i soc el propietari d'aquest pont.#My name is Alfred and I am the owner of this bridge.
+DIALOG08_LINE03#¿Qué? ¿Qué necesitas pasar?#Què? Què necessites passar?#What? Do you need to pass?
+DIALOG08_LINE04#Si quieres cruzar, antes me tendrás que ayudar.#Si vols creuar, abans m'hauràs d'ajudar.#If you want to cross, you'll have to help me first.
+DIALOG08_LINE05#Hace tiempo que tengo en mi poder este mapa del tesoro.#Fa temps que tinc al meu poder aquest mapa del tresor.#I have had this treasure map in my possession for a long time.
+DIALOG08_LINE06#Tráeme el contenido del tesoro y te dejaré pasar.#Porta'm el contingut del tresor i et deixaré passar.#Bring me the contents of the treasure and I'll let you through.
+DIALOG09_LINE01#¿Has encontrado ya el tesoro?#Ja has trobat el tresor?#Have you found the treasure yet?
+DIALOG10_LINE01#¡Que bien, Lo has encontrado!#Que bé, ho has trobat!#Perfect, you found it!
+DIALOG10_LINE02#Ahora sí, ya puedes pasar. ¡Hasta otra!#Ara sí, ja hi pots passar. Fins a un altre!#Alright, you can pass. See you!
+DIALOG11_LINE01#¡Hola de nuevo! ¿Todo bien?#Hola de nou! Tot bé?#Hello again! Everything's fine?
+DIALOG12_LINE01#¿Alfred te ha dejado pasar?#Alfred t'ha deixat passar?#Has Alfred let you through?
+DIALOG12_LINE02#He oído que quieres que repare tu barca.#He sentit que vols que repari la teva barca.#I heard you want me to repair your boat.
+DIALOG12_LINE03#Llevo tiempo intentando resolver este acertijo, si consigues resolverlo por mí, te ayudaré.#Fa temps que intento resoldre aquest encert, si aconsegueixes resoldre'l per mi, t'ajudaré.#I've been trying to solve this riddle for a long time, if you can solve it for me, I'll help you.
+DIALOG13_LINE01#El acertijo dice: Me fui por el suroeste, llegue por el norte, el tesoro lo encontré en noreste, y encontré el mapa en el oeste de la isla.#L'endevinalla diu: Me'n vaig anar pel sud-oest,  vaig arribar pel nord, el tresor el vaig trobar a nord-est, i vaig trobar el mapa a l'oest de l'illa.#The riddle says: I left from the southwest, I arrived from the north, I found the treasure in the northeast, and I found the map in the west of the island.
+DIALOG14_LINE01#¡Que bien, lo has conseguido!#Que bé, ho has aconseguit!#Good job, you got it!
+DIALOG14_LINE02#Dame un segundo.#Dona'm un segon.#Give me a second.
+DIALOG14_LINE03#Ya está, barca reparada.#Ja està, barca reparada.#That's it, boat repaired.
+DIALOG14_LINE04#¡Gracias por tu ayuda y que vaya muy bien tu viaje!#Gràcies per la teva ajuda i que vagi molt bé el vostre viatge!#Thank you for your help and have a great trip!
+WORD01#Inventario#Inventari#Inventory
+WORD02#Elaboración#Elaboració#Crafting
+WORD03#Sí#Si#Yes
+WORD04#No#No#No
+WORD05#Piedra#Pedra#Stone
+WORD06#Palo#Pal#Stick
+WORD07#Sílex#Sílex#Silex
+WORD08#Hacha#Destral#Axe
+WORD09#Pico#Pic#Pickaxe
+WORD10#Pala#Pala#Shovel
+WORD11#Moneda#Moneda#Coin
+WORD12#Objetivo#Objectiu#Objective
+WORD13#Jugar#Jugar#Play
+WORD14#Opciones#Opcions#Options
+WORD15#Salir#Sortir#Exit
+WORD16#Sonido#So#Sound
+WORD17#Video#Vídeo#Video
+WORD18#Idioma#Idioma#Language
+WORD19#Volver#Tornar#Return
+WORD20#Maestro#Mestre#Master
+WORD21#Efectos#Efectes#Effects
+WORD22#Música#Música#Music
+WORD23#Pantalla completa#Pantalla completa#Full screen
+WORD24#Pausa#Pausa#Pause
+WORD25#Mapa#Mapa#Map
+WORD26#Cargando#Carregant#Loading
+NOTIFICATION01#¡Nueva receta desbloqueada!#Nova recepta desbloquejada!#New recipe unlocked!
+NOTIFICATION02#¡Nuevo objeto creado!#Nou objecte creat!#New object crafted!
+NOTIFICATION03#¡Nuevo objeto obtenido!#Nou objecte obtingut!#New object obtained!
+GUIDE01_TEXT01#Pulsa clic derecho en el lugar del suelo hacia donde te quieres desplazar.#Clica amb el clic dret al lloc del terra cap a on et vols desplaçar.#Press right click on the ground where you want to move.
+GUIDE02_TEXT01#Busca alguien con quien hablar.#Busca algú amb qui parlar.#Find someone to talk to.
+GUIDE03_TEXT01#Pulsa sobre los NPC para hablar con ellos.#Clica sobre els NPC per parlar amb ells.#Click on the NPCs to talk to them.
+GUIDE04_TEXT01#Pulsa sobre la mochila para abrir el inventario.#Clica sobre la motxilla per obrir l'inventari.#Click on the backpack to open the inventory.
+GUIDE05_TEXT01#Recolecta recursos pulsando en ellos y crea un pico.#Recol·lecta recursos polsant en ells i crea un pic.#Gather resources clincking over them and create a pickaxe.
+GUIDE06_TEXT01#Pica la piedra para conseguir nuevos recursos.#Pica la pedra per aconseguir nous recursos.#Mine the stone to get new resources.
+GUIDE07_TEXT01#Crea una hacha.#Crea una destral.#Create an axe.
+GUIDE08_TEXT01#Tala el árbol del puente.#Talla l'arbre del pont.#Cut down the tree on the bridge.
+GUIDE09_TEXT01#Reúnete con Topete.#Reuneix-te amb Topete.#Meet with Topete.
+GUIDE10_TEXT01#Supera el minijuego de topete.#Supera el minijoc de topete.#Beat topete's challenge.
+GUIDE11_TEXT01#Busca a Alfred.#Busca a Alfred.#Search for Alfred.
+GUIDE12_TEXT01#Utiliza el mapa para encontrar el tesoro.#Utilitza el mapa per trobar el tresor.#Use map in order to find the treasure.
+GUIDE13_TEXT01#Usa la pala para desenterrar el tesoro.#Utilitza la pala per desenterrar el tresor.#Unbury the treasure using the shovel.
+GUIDE14_TEXT01#Pulsa en el tesoro para abrirlo.#Clica sobre el tresor per obrir-lo.#Click hover de treasure for open it.
+GUIDE15_TEXT01#Lleva el contenido del tesoro a Alfred.#Porta el contingut del tresor a Alfred.#Bring treasure content to Alfred.
+GUIDE16_TEXT01#Habla con Gnork.#Parla amb Gnork.#Talk with Gnork.
+GUIDE17_TEXT01#Resuelve el enigma de Gnork.#Resol l'enigma de Gnork.#Solve the puzzle of Gnork.
+GUIDE18_TEXT01#Vuelve a la barca.#Torna a la barca.#Return to the boat.
+TUTORIAL01_TEXT01#Repara la barca.#Repara la barca.#Repair the boat.
+TUTORIAL01_TEXT02#Encuentra alguna manera de reparar la barca para poder salir de la isla.#Troba alguna manera de reparar la barca i poder sortir de l'illa.#Find a way to repair the boat so you can get off the island.
+TUTORIAL01_TEXT03#Suerte! ;D#Sort! ;D#Good luck! ;D
+TUTORIAL02_TEXT01#Todos los objetos que recojas se mostraran aquí.#Tots els objectes que recullis es mostraran aquí.#All items you pick up will be displayed here.
+TUTORIAL02_TEXT02#Para soltarlos pulsa sobre la cruz.#Per deixar-los anar prem sobre la creu.#To release them, click on the cross.
+TUTORIAL02_TEXT03#Para usarlo pulsa sobre ellos.#Per fer-lo servir polsa sobre ells.#To use it, click on them.
+TUTORIAL03_TEXT01#Todas las recetas que obtengas se mostraran aquí.#Totes les receptes que obtinguis es mostraran aquí.#All the recipes you get will be shown here.
+TUTORIAL03_TEXT02#Recolecta todos los objetos necesarios para crearlos.#Recol·lecta tots els objectes necessaris per crear-los.#Collect all the objects needed to create them.
+TUTORIAL04_TEXT01#El desafío de topete.#El desafiament de Topete.#The challenge of Topete.
+TUTORIAL04_TEXT02#Pulsa sobre los agujeros en el orden que se iluminen después del parpadeo.#Polsa sobre els forats en l'ordre que s'il·luminin després del parpadeig.#Click on the holes in the order that light up after flashing.
+TUTORIAL04_TEXT03#Parpadeo verde - correcto#Parpadeig verd - correcte#Green flashing - correct
+TUTORIAL04_TEXT04#Parpadeo rojo - incorrecto#Parpadeig vermell - incorrecte#Red flashing - wrong
+CREDITS01_TEXT01#Creado por#Creat per#Created by
+CREDITS01_TEXT02#Diseño de niveles#Disseny de nivells#Level design
+CREDITS01_TEXT03#Texturizado / Modelado#Texturitzat / Modelat#Texture / Modeling
+CREDITS01_TEXT04#Animaciones#Animacions#Animations
+CREDITS01_TEXT05#Sonidos#Sons#Sounds
+CREDITS01_TEXT06#Especiales agradecimientos#Agraïments especials#Special thanks
+CREDITS01_TEXT07#Gracias por jugar#Gràcies per jugar#Thanks for playing
+###
